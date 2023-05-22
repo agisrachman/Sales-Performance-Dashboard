@@ -16,3 +16,5 @@ Needs important attention, especially from March to June so that sales can incre
 - PostgreSQL
 - Google Data Studio
 - Microsoft Excel
+# Link
+https://lookerstudio.google.com/s/kC1U7DGROSM
